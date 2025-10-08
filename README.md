@@ -3,8 +3,19 @@
 This is the starting draft of your team’s story.  
 Your mission: **revise and improve it**, making it coherent, funny, and illustrated with the provided images.
 
----
+ภีรพัฒน์ คงเนียม 6809650085
 
+จิตภิวัฒน์ จิตรเชิดชู 6809650184
+
+ชนาธิป ยศยิ่งยง 6809650192
+
+พิชญาภา ศรีบุตรดี 6809650622
+
+ธีรภัทร ใจคำ 6809650044
+
+สินทวี ชนะภัย 6809650119
+
+---
 ## Our Wonderful Story
 
 1. Once upon a time, there was a **castle**.  
